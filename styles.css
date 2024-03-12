@@ -9,6 +9,21 @@ body {
     
 }
 
+.overskrift {
+padding-left: 25vw;
+background-color: bisque;
+margin-block-start: 0em;
+margin-block-end: 0em;
+
+
+}
+
+.Fontene {
+    margin: 0;
+    height: 5vh;
+    background-color: bisque ;
+}
+
 .imageCard {
     border: 1px solid black;
     width: 250px;
@@ -24,9 +39,10 @@ body {
     align-items: center;
 }
 
-.objekt {
-    display: grid;
-    
+
+
+.Objekt {
+    display: flex;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
