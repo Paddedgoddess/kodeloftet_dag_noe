@@ -1,0 +1,37 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+}
+
+.rainbow {
+    height: 300px;
+    width: 250px;
+    
+}
+
+.imageCard {
+    border: 1px solid black;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    margin: 8px 4px;
+}
+
+.Natur {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.objekt {
+    display: grid;
+    
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.space {
+    padding-top: 50px;
+}
